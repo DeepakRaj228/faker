@@ -497,3 +497,5 @@ Faker follows Semantic Versioning 2.0 as defined at https://semver.org.
 ## License
 
 This code is free to use under the terms of the MIT license.
+
+#End#
